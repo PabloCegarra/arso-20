@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+<acta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.um.es/acta"
+	convocatoria="febrero" curso="2019" asignatura="1902" >
+  	<calificacion>
+        	<nota>10</nota>
+  	</calificacion>  	 
+  	<calificacion>
+        	<nif>13322156M</nif>
+        	<nombre>Pepe</nombre>  
+        	<nota>8</nota>
+  	</calificacion>  
+  	<diligencia fecha="2020-02-05">
+        	<nif>13322156M</nif>
+        	<nota>9</nota>	
+  	</diligencia>
+</acta>    
